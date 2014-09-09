@@ -1,0 +1,21 @@
+.song {
+  margin-bottom: 12px;
+}
+
+.rgb-pre {
+  margin: 0 0 10px auto;
+  width: 62px;
+}
+
+.rgb-grey-out {
+  background-color: #888;
+}
+
+.logo {
+  font-family: 'Play', sans-serif;
+  line-height: 0.8em;
+}
+
+h1.name {
+  font-family: 'Play', sans-serif;
+}
