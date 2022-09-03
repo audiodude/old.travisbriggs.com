@@ -1,0 +1,30 @@
+.footnote {
+  font-size: .75rem;
+  font-style: italic;
+}
+
+.rgb-pre {
+  margin: 0 0 10px auto;
+  width: 62px;
+}
+
+.footer {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+body, html {
+  background-color: #E9EDDE;
+}
+
+p {
+  color: #4D5061;
+}
+
+h1, h2, h3 {
+  color: #5C80BC;
+}
+
+a, a:visited, a:hover {
+  color: #99B2DD;
+}
